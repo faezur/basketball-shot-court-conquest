@@ -14,10 +14,10 @@ Your player, possessing exceptional ball-handling skills, moves with agility and
 
 ## Features
 
-Dynamic Gameplay: Control the ball with simple screen presses.
-Challenging Enemies: Face increasingly cunning adversaries.
-Intuitive UI: Enjoy a user-friendly interface praised by users.
-Engaging Mechanics: Experience fluid and responsive ball-handling controls.
+- Dynamic Gameplay: Control the ball with simple screen presses.
+- Challenging Enemies: Face increasingly cunning adversaries.
+- Intuitive UI: Enjoy a user-friendly interface praised by users.
+- Engaging Mechanics: Experience fluid and responsive ball-handling controls.
 
 ## Gameplay Video
 [Watch Gameplay Video](https://youtu.be/6TksblPR-io?si=jxIEVk9n1kQS7QJ0)
