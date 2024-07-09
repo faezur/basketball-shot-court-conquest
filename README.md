@@ -20,7 +20,7 @@ Intuitive UI: Enjoy a user-friendly interface praised by users.
 Engaging Mechanics: Experience fluid and responsive ball-handling controls.
 
 ## Gameplay Video
-[Watch Gameplay Video] (https://youtu.be/6TksblPR-io?si=jxIEVk9n1kQS7QJ0)
+[Watch Gameplay Video](https://youtu.be/6TksblPR-io?si=jxIEVk9n1kQS7QJ0)
 
 ## Technologies Used
 - Game Engine: Unity
